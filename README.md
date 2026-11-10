@@ -217,4 +217,4 @@ Knight Online is available as a complete free version, offering all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-10 16:55:39 UTC
+**Last updated:** 2026-11-10 22:15:05 UTC
